@@ -1,4 +1,4 @@
-![banner](/assets/banner.svg)
+![banner](/banner.svg)
 
 # Hola, soy Luis Abril Andreu
 
